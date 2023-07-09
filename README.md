@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isahir</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
-![GifAPI](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif){:autoplay}
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="GifAPI" width="300" height="200" autoplay>
 
 <p>I'm a proactive person who believes in the idea that if you can imagine something you can write a code to make it real, I have 2 years of experience so far, and I'm eager to continue expanding my knowledge, available to work under pressure and taking decisions in a short span of time I'm searching a job where I can learn from experienced people and have challenges to improve my ability to solve problems</p>
 
