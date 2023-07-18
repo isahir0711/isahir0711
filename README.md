@@ -5,7 +5,7 @@
 
 <p>I have been a web developer for 2 years now, i have experience in ASP.NET along with the micro ORM Dapper, as well as EntityFrameworkCore and i'm familiar with the repository pattern. I have been worked on a project called Avents than required consuming API's such as Stripe, for implementing a subscription service and Twilio and Sendgrid in order to send emails and SMS, i worked the backend with .NET and the frontend with Bootstrap</p>
 
-- 🔭 I’m currently working on [Avents](www.avents.co)
+- 🔭 I’m currently working on [Avents](https://www.avents.co)
 
 - 🌱 I’m currently learning **.NET & Angular**
 
