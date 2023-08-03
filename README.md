@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET & Angular**
 
-- 👨‍💻 All of my projects are available at [https://isahir0711.github.io.](https://isahir0711.github.io.)
+- 👨‍💻 All of my projects are available at [https://portfolio-rho-eight-71.vercel.app/)
 
 - 💬 Ask me about **DOTNET,SQL,Azure,Angular**
 
