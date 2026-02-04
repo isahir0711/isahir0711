@@ -1,17 +1,31 @@
-<h1 align="center">Hi 👋, I'm Isahir</h1>
-<h3 align="center">A passionate backend developer from México</h3>
+<h1 align="center">Hello, I'm Isahir</h1>
+<h3 align="center">A software developer</h3>
 
-# 💫 About Me:
-<p>I'm a seasoned backend developer with three years of experience, specializing in web and mobile app development. My focus is on implementing industry best practices, using languages like C# and TypeScript, frameworks such as .NET and Angular, and deploying on Microsoft Azure.</p>
+## Contact
+Email: isahirzavala@hotmail.com
 
-🔭 I’m currently working on Apex Systems<br><br>👨‍💻 All of my projects are available at https://isahir.com<br><br>💬 Ask me about DOTNET,SQL,Azure,Angular<br><br>📫 How to reach me isahirzavala@hotmail.com
+Linkedin: https://www.linkedin.com/in/isahir/
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isahir-zavala-miranda-70479a266) 
+I specialize in Backend development, with a strong focus on system design and web application architecture.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+I mainly work with the following technologies:
+- C#/.NET for backend development
+- Angular for web applications
+- Flutter for mobile development
 
----
-[![](https://visitcount.itsvg.in/api?id=isahir0711&icon=0&color=6)](https://visitcount.itsvg.in)
+I’m open to working with other technologies as well, such as:
+Such as:
+ - Rust
+ - C
+ - Python
+I understand that the technology is not the most important part of a project.
+
+## Projects
+- pport: CLI tool to list the current listening ports and the process that own them so you can close them. [https://github.com/isahir0711/pport]
+
+
+## Videos
+From time to time, I publish videos focused on software development.
+
+YT: https://youtube.com/@isahirdev
