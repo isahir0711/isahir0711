@@ -1,12 +1,6 @@
 <h1 align="center">Hello, I'm Isahir</h1>
 <h3 align="center">A software developer</h3>
 
-## Contact
-Email: isahirzavala@hotmail.com
-
-Linkedin: https://www.linkedin.com/in/isahir/
-
-
 I specialize in Backend development, with a strong focus on system design and web application architecture.
 
 I mainly work with the following technologies:
@@ -20,6 +14,12 @@ Such as:
  - C
  - Python
 I understand that the technology is not the most important part of a project.
+
+## Contact
+Email: isahirzavala@hotmail.com
+
+Linkedin: https://www.linkedin.com/in/isahir/
+
 
 ## Projects
 - pport: CLI tool to list the current listening ports and the process that own them so you can close them. [https://github.com/isahir0711/pport]
