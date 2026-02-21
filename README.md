@@ -13,6 +13,7 @@ Such as:
  - Rust
  - C
  - Python
+
 I understand that the technology is not the most important part of a project.
 
 ## Contact
